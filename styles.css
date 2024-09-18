@@ -1,16 +1,17 @@
 .klassname
 {
-    color: red;}
-
+    color: red;
+}
 .klassname1 
 {
-    font-style: italic;}
-
+    font-style: italic;
+}
 #idnamn
 {
-    font-size: large;
-    color: green;}
-
+    font-weight: bold;
+    color: green;
+}
 #idnamn1
 {
-    color: yellow;}
+    color: yellow;
+}
